@@ -1,0 +1,31 @@
+* {
+    color: rgb(241, 15, 223);
+}
+div {
+    color: aqua;
+}
+p {
+    color: teal;
+}
+#intro {
+ color: rgb(255, 251, 19);
+}
+.style {
+    color: chartreuse;
+}
+.style.intro.div {
+    margin-top: 0;
+    margin-left: 0;
+    color: black;
+}
+
+.my_class p strong {
+    color: yellowgreen;
+
+}
+.empty_block {
+    color: red;
+}
+.paragraph {
+    color: salmon;
+}
